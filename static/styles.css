@@ -1,0 +1,25 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  h1, img {
+    text-align:center;
+}
+
+  td, th {
+    text-align:center;
+    border: 5px solid #0d6a6d;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #a7cfc5;
+  }
+
+  .headimage {
+    width: 60px;
+    height: 60px;
+  }
